@@ -17,8 +17,8 @@ RPC Provider Optimization: Smart handling of RPC provider limitations and batch 
 Clone the repository:
 
 ```bash
-git clone https://github.com/sinak1023/kachal-god-mod.git
-cd kachal-god-mod
+git clone https://github.com/sinak1023/Multi-Network-ETH-Transfer-Bot
+cd Multi-Network-ETH-Transfer-Bot
 ````
 
 Install dependencies:
