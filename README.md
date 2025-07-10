@@ -50,3 +50,8 @@ run the bot:
 npm start   
 #or_node bot.js
 ```
+
+for run new update of bot :
+```
+node new.js
+```
